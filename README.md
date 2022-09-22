@@ -52,6 +52,6 @@ First they didn't have a alt="" for the image file they put it so I added the di
 
 ### CSS
 
-
-
+There are some repeating lines in the code so combined into one
+Also because I combined all the repeating lines, they are not finding the part cause of the missing id so added the id at the bottom for the search
 
