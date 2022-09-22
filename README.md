@@ -49,6 +49,7 @@ The link that I used for the research :
 ### HTML 
 
 First they didn't have a alt="" for the image file they put it so I added the discriptions for all the image lines
+Changed the title from website --> Horison Homepage
 
 ### CSS
 
