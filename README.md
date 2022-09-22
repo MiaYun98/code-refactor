@@ -28,7 +28,11 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-![image](https://user-images.githubusercontent.com/113086524/191659496-b0e14241-f68e-4979-aebe-1794cf87002d.png)
+
+Below is the picture of the Readme with the project discriptions
+
+![image]
+(https://user-images.githubusercontent.com/113086524/191659496-b0e14241-f68e-4979-aebe-1794cf87002d.png)
 
 
 ### Method & Resource
