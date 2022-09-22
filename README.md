@@ -31,8 +31,7 @@ THEN I find a concise, descriptive title
 
 Below is the picture of the Readme with the project discriptions
 
-![image]
-(https://user-images.githubusercontent.com/113086524/191659496-b0e14241-f68e-4979-aebe-1794cf87002d.png)
+![image](https://user-images.githubusercontent.com/113086524/191659496-b0e14241-f68e-4979-aebe-1794cf87002d.png)
 
 
 ### Method & Resource
